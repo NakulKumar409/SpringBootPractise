@@ -1,6 +1,5 @@
 package com.springbootrestapi.springbootrestapi.entites;
 
-@Entity
 public class Book {
     
     private int id;
